@@ -1,0 +1,41 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/AD1.h" FileDate="2019-02-11, 16:01:38" FileAge="1549915298108" FileType="45637" CompNumb="15" />
+      <File Name="Sources/Events.h" FileDate="2019-02-11, 15:23:53" FileAge="1549913033897" FileType="131328" />
+      <File Name="Sources/main.c" FileDate="2019-02-11, 16:08:03" FileAge="1549915683508" FileType="128" />
+      <File Name="Generated_Code/led_1.h" FileDate="2019-02-06, 15:43:38" FileAge="1549482218142" FileType="45637" CompNumb="9" />
+      <File Name="Documentation/prelab1_SIGNALS.txt" FileDate="2019-02-11, 16:08:07" FileAge="1549915687047" FileType="3072" />
+      <File Name="Generated_Code/AD1.c" FileDate="2019-02-11, 16:01:38" FileAge="1549915298116" FileType="45637" CompNumb="15" />
+      <File Name="Sources/Events.c" FileDate="2019-02-11, 15:23:54" FileAge="1549913034439" FileType="131328" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2019-02-06, 15:26:52" FileAge="1549481212501" FileType="45637" />
+      <File Name="Generated_Code/led_1.c" FileDate="2019-02-06, 15:43:38" FileAge="1549482218149" FileType="45637" CompNumb="9" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2019-02-06, 15:26:52" FileAge="1549481212476" FileType="8" CompNumb="4" />
+      <File Name="Generated_Code/AS1.h" FileDate="2019-02-06, 16:09:26" FileAge="1549483766745" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/AS1.c" FileDate="2019-02-06, 16:09:26" FileAge="1549483766743" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2019-02-06, 15:26:52" FileAge="1549481212494" FileType="45637" />
+      <File Name="Generated_Code/TI1.h" FileDate="2019-02-06, 15:57:46" FileAge="1549483066200" FileType="45637" CompNumb="10" />
+      <File Name="Documentation/prelab1.txt" FileDate="2019-02-11, 16:01:38" FileAge="1549915298179" FileType="3072" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2019-02-06, 15:26:52" FileAge="1549481212489" FileType="45637" />
+      <File Name="Generated_Code/TI1.c" FileDate="2019-02-06, 15:57:46" FileAge="1549483066206" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2019-02-06, 15:26:52" FileAge="1549481212497" FileType="45637" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2019-02-06, 15:37:33" FileAge="1549481853844" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2019-02-11, 15:47:35" FileAge="1549914455086" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Bit1.h" FileDate="2019-02-06, 15:46:55" FileAge="1549482415432" FileType="45637" CompNumb="8" />
+      <File Name="Documentation/prelab1_Settings.xml" FileDate="2019-02-11, 16:01:38" FileAge="1549915298164" FileType="3072" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2019-02-11, 15:23:53" FileAge="1549913033878" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Bit1.c" FileDate="2019-02-06, 15:46:55" FileAge="1549482415439" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2019-02-06, 15:26:52" FileAge="1549481212504" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>17</CodeGenReference>
+</CodeGenerationInfo>
