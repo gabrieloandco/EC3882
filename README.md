@@ -1,2 +1,2 @@
-# Osciloscopio-EC3882
-Osciloscopio realizado en la materia de proyectos 2.
+# EC3882
+Proyectos realizados en la materia de proyectos 2.
